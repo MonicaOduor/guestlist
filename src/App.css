@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+  background: url(https://roisin.qodeinteractive.com/wp-content/uploads/2020/02/roisin-landing-background-img-1.jpg) no-repeat !important;
+  font-family: 'Raleway', serif !important;color: rgb(104, 57, 65) !important;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+.title{
+  font-family: 'Lovers Quarrel', cursive;
+  font-size: 3rem;
+}
