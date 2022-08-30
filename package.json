@@ -1,6 +1,6 @@
 {
   "name": "redux-app",
-  "homepage": "https://monicaoduor.github.io/guest-List",
+  "homepage": "https://monicaoduor.github.io/guestlist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
